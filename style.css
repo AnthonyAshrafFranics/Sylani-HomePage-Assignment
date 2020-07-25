@@ -1,0 +1,112 @@
+.h-icon{
+    width:20px;
+    height:20px;
+    margin-left: 15px !important;
+    cursor: pointer;
+}
+.head-para{
+    color:white;
+    font-size: medium !important;
+
+}
+
+.head-btn{
+    color:black !important;
+    border:1px solid rgb(65, 63, 63);
+
+}
+.header{
+    background-color: #316DC3;
+}
+.nav-link{
+    color:black !important;
+    font-weight: 600;
+}
+.nav-link:hover{
+    background-color:#316DC3;
+    color: white !important;
+}
+.dropdown-item:hover{
+    background-color:#316DC3 !important;
+    color: white !important;
+}
+.title{
+    margin-left:-9px;
+}
+.intro-para{
+    /* padding: 0px 60px 0px 60px !important; */
+}
+.my-blue{
+    font-family: 'Merriweather', serif;
+    background-color: rgba(36, 81, 242, 0.897) !important;
+}
+.blue-text{
+    font-size: 15px;
+}
+.b-para{
+    color: #a2e94c;
+}
+.card-title{
+    font-family: 'Merriweather', serif;
+    
+}
+.mission-my{
+    font-family: 'Merriweather', serif;
+    font-weight: 100;
+
+}
+.upcoming{
+    margin-left:0px !important;
+    margin-top:0px !important;
+}
+.gallery-images:hover{
+    transform: scale(1.2);
+    opacity: 0.5;
+    transition: transform 3s;
+}
+.img-box{
+    overflow: hidden;
+    display: inline-block;
+    height: 200px;
+    /* width: 19%; */
+
+}
+.fas{
+    color: green;
+    font-size: 12px;
+}
+.far{
+    color: green;
+    font-size: 14px;
+}
+.f-list{
+    color:rgb(211, 205, 205);
+}
+.fab,.fa{
+    margin-top: 10px;
+}
+.my-list{
+    width: 35px;
+    height: 35px;
+    margin-right: 5px;
+    background-color: blue !important;
+}
+
+#myBtn:hover{
+    background-color:grey;
+}
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: rgba(168, 162, 162, 0.349);
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 4px;
+}
